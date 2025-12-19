@@ -1,5 +1,3 @@
-# README.md
-
 ```markdown
 # Playwright Modal & Alert Automation – DemoQA Practice
 
